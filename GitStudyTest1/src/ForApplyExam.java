@@ -14,7 +14,7 @@ public class ForApplyExam {
 				
 				System.out.println();
 			}
-			//ㅁㄴㅁㅇㅁㄴㅇㅁㅇㅁㅇㄴ
+
 //			System.out.print("짝수의 합: " + sum);
 //			System.out.println();
 		}
